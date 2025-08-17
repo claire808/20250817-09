@@ -1,0 +1,1 @@
+console.log('Weave Headband AR v5.0 placeholder');
